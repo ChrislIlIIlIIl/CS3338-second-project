@@ -1,0 +1,45 @@
+commit d643d473c836d7db1c778d2941fee6a7e233af6e
+Merge: 9eb49cc 5de7817
+Author: ChrislIlIIlIIl <cgarci296@calstatela.edu>
+Date:   Fri Feb 7 13:04:00 2025 -0800
+
+    kept both lines after merge conflict
+
+commit 5de78178fb8e5f69763f4cca0f48ab5063ded916
+Author: ChrislIlIIlIIl <cgarci296@calstatela.edu>
+Date:   Fri Feb 7 13:00:20 2025 -0800
+
+    added my fav game to indexhtml
+
+commit 9eb49ccce2e5092c44ed4c78044daab3eb33d2ed
+Author: Leticia garcia <leticiagarcia@dhcp-10-85-180-243.wifi.calstatela.edu>
+Date:   Fri Feb 7 12:55:13 2025 -0800
+
+    added my fav foods to index.html
+
+commit 69acb6b9f2b2e869d516f206cce62657a44f71bb
+Author: Leticia garcia <leticiagarcia@dhcp-10-85-44-246.wifi.calstatela.edu>
+Date:   Fri Jan 31 13:34:42 2025 -0800
+
+    readme file added and updated
+
+commit 8b3fcdd6292347f206c1bcacd9b875c7087e58f3
+Merge: 1d2bfc0 5a17039
+Author: ChrislIlIIlIIl <158364044+ChrislIlIIlIIl@users.noreply.github.com>
+Date:   Fri Jan 31 13:26:29 2025 -0800
+
+    Merge pull request #1 from ChrislIlIIlIIl/info-fill
+    
+    added my info the the index file
+
+commit 5a1703928044607d6bc0c4db6dfbe347ad4bcbe1
+Author: Leticia garcia <leticiagarcia@dhcp-10-85-44-246.wifi.calstatela.edu>
+Date:   Fri Jan 31 13:04:11 2025 -0800
+
+    added my info the the index file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
